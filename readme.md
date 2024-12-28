@@ -8,43 +8,43 @@ Welcome to Slick, a modern and responsive e-commerce website for showcasing and 
 
 1. Home Page
 
-Eye-catching hero section with an elegant tagline: "Find Your Sole Mate With Us".
+   - Eye-catching hero section with an elegant tagline: "Find Your Sole Mate With Us".
 
-Prominent call-to-action button to encourage users to explore the store.
+   - Prominent call-to-action button to encourage users to explore the store.
 
 2. Product Showcase
 
-A featured section for trending and best-selling products.
+   - A featured section for trending and best-selling products.
 
-Detailed product cards displaying:
+   - Detailed product cards displaying:
 
-High-quality shoe images.
+   - High-quality shoe images.
 
-Product names and prices.
+   - Product names and prices.
 
-Quantity selectors and add-to-cart buttons.
+   - Quantity selectors and add-to-cart buttons.
 
 3. Categorized Products
 
-Filters for different categories: Men, Women, Boys, and Children.
+   - Filters for different categories: Men, Women, Boys, and Children.
 
-Organized layout for an easy browsing experience.
+   - Organized layout for an easy browsing experience.
 
 4. Brand Collaboration
 
-Logos of popular partner brands like Amazon, Myntra, Flipkart, and more.
+   - Logos of popular partner brands like Amazon, Myntra, Flipkart, and more.
 
 5. Customer Reviews
 
-Dedicated section showcasing testimonials from satisfied customers with ratings.
+   - Dedicated section showcasing testimonials from satisfied customers with ratings.
 
 7. Footer Section
 
-Links to important pages like Home, Shop, Contact, and Privacy Policy.
+   - Links to important pages like Home, Shop, Contact, and Privacy Policy.
 
-Newsletter subscription form.
+   - Newsletter subscription form.
 
-Social media links for better engagement.
+   - Social media links for better engagement.
 
 ## Tech Stack
 
